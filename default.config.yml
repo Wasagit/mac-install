@@ -75,12 +75,48 @@ homebrew_cask_apps:
   - firefox
   - google-chrome
   - handbrake
-  - licecap
-  - sequel-ace
-  - slack
   - sublime-text
-  - transmit
   - vagrant
+  - 1Password
+  - agenda
+  - alfred
+  - applepi-baker
+  - chromium
+  - cocoarestclient
+  - default-folder-x
+  - disk-inventory-x
+  - fantastical
+  - firefox
+  - forkLift
+  - google-chrome
+  - houdahSpot
+  - macVim
+  - massreplaceit
+  - microsoft-edge
+  - microsoft-excel
+  - microsoft-oneNote
+  - microsoft-outlook
+  - microsoft-powerPoint
+  - microsoft-Remote-desktop
+  - microsoft-teams
+  - microsoft-word
+  - mindNode
+  - monosnap
+  - moom
+  - onedrive
+  - parallels
+  - parallels-toolbox
+  - spotify
+  - thonny
+  - vlc 
+  - virtualBox
+  - whatsApp
+  - wireGuard
+  - wireshark
+  - drawio
+  - istat-menus
+  - iterm
+  - qview
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
