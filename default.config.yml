@@ -94,14 +94,11 @@ homebrew_cask_apps:
   - massreplaceit
   - microsoft-edge
   - microsoft-excel
-  - microsoft-oneNote
   - microsoft-outlook
   - microsoft-powerPoint
   - microsoft-Remote-desktop
   - microsoft-teams
   - microsoft-word
-  - mindNode
-  - monosnap
   - moom
   - onedrive
   - parallels
@@ -111,11 +108,11 @@ homebrew_cask_apps:
   - vlc 
   - virtualBox
   - whatsApp
-  - wireGuard
+  - wireguard
   - wireshark
   - drawio
   - istat-menus
-  - iterm
+  - iterm2
   - qview
 
 # See `geerlingguy.mas` role documentation for usage instructions.
